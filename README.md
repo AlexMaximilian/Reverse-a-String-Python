@@ -1,5 +1,5 @@
 # Reverse-a-String-Python
-#Alex Maximilian
+
 
 Simple function to reverse a string from a user input.
 
